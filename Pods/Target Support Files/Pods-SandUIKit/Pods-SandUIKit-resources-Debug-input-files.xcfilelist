@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-SandUIKit/Pods-SandUIKit-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/Resource/Medium.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/Resource/Regular.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/Resource/RegularItalic.bundle

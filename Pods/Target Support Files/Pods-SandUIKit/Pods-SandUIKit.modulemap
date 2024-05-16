@@ -1,0 +1,6 @@
+module Pods_SandUIKit {
+  umbrella header "Pods-SandUIKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

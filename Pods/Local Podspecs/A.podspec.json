@@ -1,0 +1,30 @@
+{
+  "name": "A",
+  "version": "1.0.0",
+  "summary": "module",
+  "license": "MIT",
+  "homepage": "https://wiki/mobile/",
+  "authors": {
+    "MT ": "dev@team.ru"
+  },
+  "source": {
+    "http": "https://proxy.sandbox.com",
+    "type": "zip"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "swift_versions": "5.0",
+  "dependencies": {
+    "MyPod/SubspecThree": [
+
+    ],
+    "Resource/Regular": [
+
+    ],
+    "Resource/Medium": [
+
+    ]
+  },
+  "swift_version": "5.0"
+}

@@ -1,0 +1,49 @@
+PODS:
+  - A (1.0.0):
+    - MyPod/SubspecThree
+    - Resource/Medium
+    - Resource/Regular
+  - B (1.0.0):
+    - MyPod/SubspecTwo
+    - Resource/Medium
+    - Resource/RegularItalic
+  - MyPod/SubspecOne (1.0.0)
+  - MyPod/SubspecThree (1.0.0)
+  - MyPod/SubspecTwo (1.0.0)
+  - Resource (1.0.0):
+    - Resource/Medium (= 1.0.0)
+    - Resource/Regular (= 1.0.0)
+    - Resource/RegularItalic (= 1.0.0)
+  - Resource/Medium (1.0.0)
+  - Resource/Regular (1.0.0)
+  - Resource/RegularItalic (1.0.0)
+
+DEPENDENCIES:
+  - A (from `./pod`)
+  - B (from `./pod`)
+  - MyPod/SubspecOne (from `./pod`)
+  - MyPod/SubspecThree (from `./pod`)
+  - MyPod/SubspecTwo (from `./pod`)
+  - Resource (from `./pod`)
+  - Resource/Medium (from `./pod`)
+  - Resource/Regular (from `./pod`)
+
+EXTERNAL SOURCES:
+  A:
+    :path: "./pod"
+  B:
+    :path: "./pod"
+  MyPod:
+    :path: "./pod"
+  Resource:
+    :path: "./pod"
+
+SPEC CHECKSUMS:
+  A: fbea22267b2bc8c86f0bb17c719daae026166dda
+  B: 1ee86d60bf93ca12c1aa5fbb11f3e6b8491d4c24
+  MyPod: 2816d8b369c529aafe7d1e1a80853fa4d7f06c55
+  Resource: f91f001485c34f0c07e0ba23ac51dbe35df54abd
+
+PODFILE CHECKSUM: caf25202fe278f7eaf465154cf3114ed148ff8ba
+
+COCOAPODS: 1.15.2

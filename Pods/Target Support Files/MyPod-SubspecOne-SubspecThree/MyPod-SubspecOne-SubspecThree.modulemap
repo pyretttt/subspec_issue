@@ -1,0 +1,7 @@
+module MyPod {
+  umbrella header "MyPod-SubspecOne-SubspecThree-umbrella.h"
+  exclude header "MyPod-SubspecThree-SubspecTwo-umbrella.h"
+
+  export *
+  module * { export * }
+}

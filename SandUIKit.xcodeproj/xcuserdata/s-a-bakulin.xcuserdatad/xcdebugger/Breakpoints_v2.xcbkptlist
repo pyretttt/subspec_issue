@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4DC41389-5131-4DD5-B69F-B5CCE4B6A86A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "779AD53E-F125-40A7-95A2-67492A078FB9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SandUIKit/ModalViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "779AD53E-F125-40A7-95A2-67492A078FB9 - 4367f92f8000a91f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in SandUIKit.ModalViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "SandUIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s-a-bakulin/Desktop/SandUIKit/SandUIKit/ModalViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "779AD53E-F125-40A7-95A2-67492A078FB9 - 4367f92f8000a91f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in SandUIKit.ModalViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "SandUIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s-a-bakulin/Desktop/SandUIKit/SandUIKit/ModalViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "779AD53E-F125-40A7-95A2-67492A078FB9 - 4367f92f8000aefc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in SandUIKit.ModalViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "SandUIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s-a-bakulin/Desktop/SandUIKit/SandUIKit/ModalViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "216">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "62FF67D1-9DF7-47C0-BA89-8DA8283B08EC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SandUIKit/ModalViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "62FF67D1-9DF7-47C0-BA89-8DA8283B08EC - b0400c39cf2b14b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SandUIKit.ModalViewController.viewWillLayoutSubviews() -&gt; ()"
+                  moduleName = "SandUIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s-a-bakulin/Desktop/SandUIKit/SandUIKit/ModalViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "62FF67D1-9DF7-47C0-BA89-8DA8283B08EC - b0400c39cf2b14b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SandUIKit.ModalViewController.viewWillLayoutSubviews() -&gt; ()"
+                  moduleName = "SandUIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s-a-bakulin/Desktop/SandUIKit/SandUIKit/ModalViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
